@@ -30,7 +30,7 @@ class PrimitiveCreatorDialog(QtWidgets.QDialog):
 		self.primitive_listWidget.setViewMode(QtWidgets.QListView.IconMode)
 		self.primitive_listWidget.setMovement(QtWidgets.QListView.Static)
 		self.primitive_listWidget.setResizeMode(QtWidgets.QListView.Adjust)
-		self.primitive_listWidget.setStyleSheet('background-color : #567A6E;')
+		self.primitive_listWidget.setStyleSheet('background-color : #629695;')
 
 		
 
